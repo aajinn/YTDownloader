@@ -1,4 +1,4 @@
-name: Build & Release YTDownloader
+name: Build & Release YTDownloader (Small Single EXE)
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write    
+  contents: write
 
 jobs:
   build:
@@ -25,8 +25,14 @@ jobs:
       - name: Restore dependencies
         run: dotnet restore
 
-      - name: Publish single EXE
-        run: dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true -p:EnableCompressionInSingleFile=true -o publish
+      - name: Publish trimmed & compressed single EXE
+        run: |
+          dotnet publish -c Release -r win-x64 `
+            --self-contained true `
+            -p:PublishSingleFile=true `
+            -p:PublishTrimmed=true `
+            -p:EnableCompressionInSingleFile=true `
+            -o publish
 
       - name: Download yt-dlp.exe
         run: |
