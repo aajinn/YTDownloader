@@ -1,0 +1,29 @@
+# .NET build files
+bin/
+obj/
+out/
+publish/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+
+# JetBrains Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+*.zip
+*.exe
+*.dll
+
+# GitHub workflo

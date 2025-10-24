@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YTDownloader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3581277f5f7f35aebea8317acf0d32e8db5171fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("YTDownloader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YTDownloader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
