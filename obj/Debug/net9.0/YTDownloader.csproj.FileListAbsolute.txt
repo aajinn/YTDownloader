@@ -1,0 +1,14 @@
+C:\Projects\YTDownloader\bin\Debug\net9.0\YTDownloader.exe
+C:\Projects\YTDownloader\bin\Debug\net9.0\YTDownloader.deps.json
+C:\Projects\YTDownloader\bin\Debug\net9.0\YTDownloader.runtimeconfig.json
+C:\Projects\YTDownloader\bin\Debug\net9.0\YTDownloader.dll
+C:\Projects\YTDownloader\bin\Debug\net9.0\YTDownloader.pdb
+C:\Projects\YTDownloader\obj\Debug\net9.0\YTDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\YTDownloader\obj\Debug\net9.0\YTDownloader.AssemblyInfoInputs.cache
+C:\Projects\YTDownloader\obj\Debug\net9.0\YTDownloader.AssemblyInfo.cs
+C:\Projects\YTDownloader\obj\Debug\net9.0\YTDownloader.csproj.CoreCompileInputs.cache
+C:\Projects\YTDownloader\obj\Debug\net9.0\YTDownloader.dll
+C:\Projects\YTDownloader\obj\Debug\net9.0\refint\YTDownloader.dll
+C:\Projects\YTDownloader\obj\Debug\net9.0\YTDownloader.pdb
+C:\Projects\YTDownloader\obj\Debug\net9.0\YTDownloader.genruntimeconfig.cache
+C:\Projects\YTDownloader\obj\Debug\net9.0\ref\YTDownloader.dll
